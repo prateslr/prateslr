@@ -5,7 +5,7 @@
 - 📫 Contato: lucas.rprates077@gmail.com 11 96393 9709
 
 <br>
-<div align="center">
+<div style="display: flex;justify-content: space-around;">
   <a href="https://github.com/DevLucasP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaikepinheiro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikepinheiro&layout=donut&langs_count=7&theme=dark"/>
