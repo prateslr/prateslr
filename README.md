@@ -4,12 +4,15 @@
 - 🌱 Atualmente estou estudando JS; PHP; C# e node.js
 - 📫 Contato: lucas.rprates077@gmail.com | 11 96393 9709
 <br>
-<div style="align: left;">
-    <a href="https://github.com/DevLucasP">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucasP&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/img>
-</div>
-<div style="align: right;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasP&layout=donut&langs_count=7&theme=dark"/>
+
+<div style="display: flex; justify-content: space-around;">
+    <div style="align: left;">
+        <a href="https://github.com/DevLucasP">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucasP&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/img>
+    </div>
+    <div style="align: right;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasP&layout=donut&langs_count=7&theme=dark"/>
+    </div>
 </div>
 </br>
 
