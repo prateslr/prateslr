@@ -3,14 +3,8 @@
 - 🔭 Atualmento curso TI no 3° Ano da ETEC MCM de Ribeirão Pires
 - 🌱 Atualmente estou estudando JS; PHP; C# e node.js
 - 📫 Contato: lucas.rprates077@gmail.com | 11 96393 9709
-<style>
-  .div1 {
-    display: flex;
-    justify-content: space-between;
-  }
-</style>
 <br>
-<div class="div1">
+<div style=" display: flex; justify-content: space-between;">
   <a href="https://github.com/DevLucasP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucasP&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasP&layout=donut&langs_count=7&theme=dark"/>
