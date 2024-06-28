@@ -1,14 +1,14 @@
 <h2 align="center">Olá me chamo Lucas Prates 👋</h2>
   
 - 🔭 Atualmente estou no 3°Ano do ensino médio cursando TI
-- 🌱 Estou atualmente estudando: PHP & Javascript
+- 🌱 Estou atualmente estudando: PHP, C# & Javascript
 - 📩 E-mail de contato: lucas.rprates077@gmail.com
 
 <br>
 <div align="center">
   <a href="https://github.com/pratestech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/img>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratestech&layout=donut&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratestech&layout=donut&langs_count=7&theme=one-pro-draker"/>
 </div>
 </br>
 
