@@ -5,7 +5,7 @@
 - 📫 Contato: lucas.rprates077@gmail.com | 11 96393 9709
 <br>
 
-<div align="center">
+<div display= flex>
     <a href="https://github.com/pratestech">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratestech&layout=compact&langs_count=7&theme=dracula"/>
