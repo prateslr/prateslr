@@ -22,9 +22,14 @@
 </div>
 
 ###
-</br>
 
-<div align="center">
+<div align="right">
+  <img height="150" src="https://www.icegif.com/wp-content/uploads/icegif-3530.gif"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -36,9 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <div align="right">
-    <img height="190" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZAZR9JaryYq1NH5fKx67sdZr7iQUs9a6TQ&s"  />
-  </div>
 </div>
 
 ###
