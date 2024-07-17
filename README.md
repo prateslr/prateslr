@@ -1,4 +1,9 @@
-<h2 align="center">Olá me chamo Lucas Prates 👋</h2>
+<h2 align="center">Olá me chamo Lucas Prates 👋</h2> 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pratestech/count.svg?"  />
+</div>
+
+###
   <br>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="instagram logo"  />
