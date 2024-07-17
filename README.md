@@ -23,4 +23,6 @@
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-##
+<img src="https://raw.githubusercontent.com/pratestech/pratestech/output/snake.svg" alt="Snake animation" />
+
+###
