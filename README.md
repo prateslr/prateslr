@@ -41,5 +41,3 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/pratestech/pratestech/blob/output/github-contribution-grid-snake.svg)
