@@ -1,4 +1,7 @@
-<h2 align="center">Olá me chamo Lucas Prates 👋</h2> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5FFFA&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!;+my+name+is+Lucas+Prates;I'm+17+years+old;I+from+Brasil,+SP;)](https://git.io/typing-svg)
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/pratestech/count.svg?"  />
 </div>
