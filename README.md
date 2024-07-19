@@ -37,3 +37,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/pratestech/pratestech/output/snake.svg" alt="Snake animation" />
+
+###
