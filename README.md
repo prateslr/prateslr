@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/pratestech/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pratestech.pratestech&right_color=darkorange&left_text=viwers"  />
 </div>
 
 ###
