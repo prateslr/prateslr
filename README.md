@@ -16,10 +16,6 @@
 
 ###
 
-  <img align="right" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/1669113108790361549/C63886A74712175B5CF527F1EB9A60A09FE3065E/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
