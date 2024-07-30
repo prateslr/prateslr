@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=raimbow&size=33&center=true&vCenter=true&width=1000&lines=Welcome!;+my+name+is+Lucas+Prates;I'm+17+years+old;I+from+Brasil,+SP;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#23232e&size=33&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name+is+Lucas+Prates;I'm+17+years+old;I+from+Brasil,+SP;)](https://git.io/typing-svg)
 
 ###
 
