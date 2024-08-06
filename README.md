@@ -34,9 +34,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratestech&radius=16&theme=one-dark&area=true&order=5&point=#f00&area_color=#fff&custom_title=Commits&bg_color=#000&color=#ececec&line=green&title_color=blue" height="300" alt="activity-graph graph"  />
-</div>
-
-###
