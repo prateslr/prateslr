@@ -8,7 +8,7 @@
 
 ###
 <div align="center">
-  "Comece onde você está, use o que você tem e faça o que você pode."
+  "Start where you are, use what you have and do what you can."
 </div>
 
 ###
