@@ -9,13 +9,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   "Start where you are, use what you have and do what you can."
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/pratestech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratestech&layout=donut&langs_count=7&theme=dark"/>
@@ -31,6 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratestech&radius=16&theme=one-dark&area=true&order=5&point=#f00&area_color=#fff&custom_title=Commits&bg_color=#000&color=#ececec&line=green&title_color=blue" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
