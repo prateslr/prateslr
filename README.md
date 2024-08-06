@@ -2,9 +2,9 @@
 
 ###
 
-[![Instagram Badge](https://img.shields.io/badge/-@prateslr-e61919?style=flat-square&labelColor=e61919&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Prates-e61919?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-lucas.rprates077@gmail.com-e61919?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@prateslr-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Prates-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucas.rprates077@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pratestech.pratestech&right_color=e61919&left_text=viwers"  />
 
 ###
