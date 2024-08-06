@@ -7,8 +7,9 @@
 </div>
 
 ###
-
-"Comece onde você está, use o que você tem e faça o que você pode."
+<div align="center>
+  <p>"Comece onde você está, use o que você tem e faça o que você pode."</p>
+</div>
 
 ###
 
