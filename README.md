@@ -1,4 +1,4 @@
-# Lucas Prates - Web Developer - Junior
+# Lucas Prates
 
 ###
 
