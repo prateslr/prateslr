@@ -17,7 +17,7 @@
 
 <div align="left">
   <a href="https://github.com/pratestech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratestech&layout=donut&langs_count=7&theme=dark"/>
 </div>
 
