@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" src="https://pratestech.github.io/pratestech/octocat.png"/>
 
 ###
 
