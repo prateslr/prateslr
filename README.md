@@ -11,19 +11,19 @@
 
 <div align="left">
   "Start where you are, use what you have and do what you can."
+  <img align="right" width="260" src="https://pratestech.github.io/pratestech/octocat.png"/>
+  
 </div>
 
 ###
 
 <div align="left">
   <a href="https://github.com/pratestech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratestech&layout=donut&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
 </div>
 
 ###
 
-<img align="right" width="180" height src="https://pratestech.github.io/pratestech/octocat.png"/>
 
 ###
 Language and tools
