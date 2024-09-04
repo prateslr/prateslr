@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" src="https://pratestech.github.io/pratestech/octocat.png"/>
+<img align="right" width="300" height src="https://pratestech.github.io/pratestech/octocat.png"/>
 
 ###
 
@@ -31,11 +31,11 @@
  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="29" alt="html5 logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="29" alt="css3 logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="29" alt="javascript logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="29" alt="figma logo"/>
 </div>
 
