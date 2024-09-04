@@ -10,7 +10,7 @@
 ###
 
 <div align="left">
-  "Start where you are, use what you have and do what you can."
+ <h4>"Being resilient is believing in yourself.</h4>
 </div>
 
 ###
