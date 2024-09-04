@@ -11,15 +11,16 @@
 
 <div align="left">
   "Start where you are, use what you have and do what you can."
-  <img align="right" width="260" src="https://pratestech.github.io/pratestech/octocat.png"/>
-  
 </div>
 
 ###
 
-<div align="left">
+<div align="left" width="100%">
   <a href="https://github.com/pratestech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
+  <img width="20" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratestech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2&custom_title=Languages" height="180em" alt="languages graph"/>
+  <img align="right" height="180em" src="https://pratestech.github.io/pratestech/octocat.png"/>  
 </div>
 
 ###
