@@ -25,10 +25,6 @@
 
 ###
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img width="170" src="https://skillicons.dev/icons?i=html,css,js,figma" alt="icons html, css, js, figma"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,bootstrap&theme=dark)](https://skillicons.dev)
 
 ###
