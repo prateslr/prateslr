@@ -2,10 +2,10 @@
 
 ###
 
-[![Instagram Badge](https://img.shields.io/badge/-@prateslr-20B2AA?style=flat-square&labelColor=20B2AA&logo=instagram&logoColor=white&link=https://instagram.com/prateslr/)](https://instagram.com/prateslr/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Prates-20B2AA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav) 
-[![Gmail Badge](https://img.shields.io/badge/-lucas.rprates077@gmail.com-20B2AA?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.rprates077@gmail.com)](mailto:lucas.rprates077@gmail.com)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pratestech.pratestech&right_color=LightSeaGreen&left_text=viwers" alt="badge viewer profile"/>
+[![Instagram Badge](https://img.shields.io/badge/-@prateslr-1E90FF?style=flat-square&labelColor=1E90FF&logo=instagram&logoColor=white&link=https://instagram.com/prateslr/)](https://instagram.com/prateslr/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Prates-1E90FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav) 
+[![Gmail Badge](https://img.shields.io/badge/-lucas.rprates077@gmail.com-1E90FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.rprates077@gmail.com)](mailto:lucas.rprates077@gmail.com)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pratestech.pratestech&right_color=DodgerBlue&left_text=viwers" alt="badge viewer profile"/>
 
 ###
 
