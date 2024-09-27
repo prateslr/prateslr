@@ -17,9 +17,9 @@
 
 <div align="left" width="100%">
   <a href="https://github.com/pratestech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="commits graph"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratestech&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="commits graph"/>   
   <img width="20"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratestech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=false&order=2&custom_title=Languages" height="180em" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratestech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2&custom_title=Languages" height="180em" alt="languages graph"/>
   <img align="right" height="180em" src="https://pratestech.github.io/pratestech/octocat.png" alt="octocat do github"/>  
 </div>
 
