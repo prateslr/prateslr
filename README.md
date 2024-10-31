@@ -8,7 +8,7 @@
  <p>Sou um desenvolvedor web me especializando em criar projetos utilizando Html, Css, Js entre outras linguagens. Desenvolvo páginas para que fique de acordo com as suas necessidades e com a cara da sua empresa.</p>
 </div>
 
-### 🛠️ Ferramentas
+## 🛠️ Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
