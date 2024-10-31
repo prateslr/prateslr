@@ -23,4 +23,7 @@
 </div>
 
 # 📂 Projetos
-## CodSpace
+## 🌐 CodSpace
+Empresa em desenvolvimento que utiliza Html, Css, Js, Php e sql, o projeto CodSpace foi idealizado para proporcionar conhecimento aos estudantes de programação que buscam ingressar no mercado e devs experientes que queiram acurar suas habilidades. O site viabiliza como parte do projeto e-books das linguagens, mentorias ao vivo, cursos e muito mais.
+
+## 🔧 Loading ...
