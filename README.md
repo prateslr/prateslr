@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
- <h4>"Being resilient is believing in yourself.</h4>
+ <p>"Being resilient is believing in yourself.</p>
 </div>
 
 ###
@@ -21,8 +21,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prateslr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2&custom_title=Languages" height="180em" alt="languages graph"/>
 </div>
 
-###
+## 🛠️ Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
+[![Html](https://skillicons.dev/icons?i=html&theme=dark&)](https://skillicons.dev)
+[![Css](https://skillicons.dev/icons?i=css&theme=dark&)](https://skillicons.dev)
+[![Javascript](https://skillicons.dev/icons?i=js&theme=dark&)](https://skillicons.dev)
 
-###
+## 📙 Em aprendizado
+
+[![Php](https://skillicons.dev/icons?i=php&theme=dark&)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark&)](https://skillicons.dev)
+[![Javascript](https://skillicons.dev/icons?i=js&theme=dark&)](https://skillicons.dev)
