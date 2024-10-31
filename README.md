@@ -27,8 +27,3 @@
 [![Css](https://skillicons.dev/icons?i=css&theme=dark&)](https://skillicons.dev)
 [![Javascript](https://skillicons.dev/icons?i=js&theme=dark&)](https://skillicons.dev)
 
-## 📙 Em aprendizado
-
-[![Php](https://skillicons.dev/icons?i=php&theme=dark&)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark&)](https://skillicons.dev)
-[![Javascript](https://skillicons.dev/icons?i=js&theme=dark&)](https://skillicons.dev)
