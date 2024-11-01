@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucas.rprates077@gmail.com-4298ef?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.rprates077@gmail.com)](mailto:lucas.rprates077@gmail.com)
 
 <div align="justify">
- <p>Sou um desenvolvedor web me especializando em criar projetos utilizando Html, Css, Js entre outras linguagens. Desenvolvo páginas para que fique de acordo com as suas necessidades e com a cara da sua empresa.</p>
+ <p>I am a web developer specializing in creating projects using Html, Css, Js and other languages. I develop pages to suit your needs and the look of your company.</p>
 </div>
 
-## 🛠️ Ferramentas
+## 🛠️ Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -22,8 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
 </div>
 
-# 📂 Projetos
+# 📂 Projects
 ## 🌐 CodSpace
-Empresa em desenvolvimento que utiliza Html, Css, Js, Php e sql, o projeto CodSpace foi idealizado para proporcionar conhecimento aos estudantes de programação que buscam ingressar no mercado e devs experientes que queiram acurar suas habilidades. O site viabiliza como parte do projeto e-books das linguagens, mentorias ao vivo, cursos e muito mais.
+A developing company that uses Html, Css, Js, Php and sql, the CodSpace project was designed to provide knowledge to programming students looking to enter the market and experienced devs who want to sharpen their skills. The website provides language e-books, live mentoring, courses and much more as part of the project.
 
 ## 🔧 Loading ...
