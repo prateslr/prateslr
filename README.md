@@ -23,6 +23,6 @@
 
 # 📂 Projects
 ## 🌐 CodSpace
-A developing company that uses Html, Css, Js, Php and sql, the CodSpace project was designed to provide knowledge to programming students looking to enter the market and experienced devs who want to sharpen their skills. The website provides language e-books, live mentoring, courses and much more as part of the project.
+CodSpace is an innovative platform designed to be the ideal meeting point for programmers, from those just starting their programming journey to experienced professionals looking to enhance their skills. Our mission is to provide a rich environment for learning and networking, making software development more accessible and collaborative.
 
 ## 🔧 Loading ...
