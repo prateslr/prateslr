@@ -15,7 +15,7 @@
 
 ### 🛠️ Languages
 
-<div align="left">
+<div float="right">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
@@ -23,3 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="5" />
 </div>
+
+<p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF0dmNtampqNmJldmNpM2QyOTBycWJvZDBzcTM2cWlramtjanpieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" alt="Hello"/>
+</p>
