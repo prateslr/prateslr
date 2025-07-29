@@ -2,7 +2,7 @@
 **`Web Developer`**
 
 <div align="justify">
- <p>I am a web developer specializing in creating projects using Html, Css, Js and other languages. I develop pages to suit your needs and the look of your company.</p>
+ <p>Me chamo Lucas Ramalho Prates, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na ETEC MCM, com o curso técnico em informática para internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM.</p>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasspr)
