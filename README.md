@@ -10,13 +10,6 @@
 
 ##
 
-### 🛠️ Languages
+### 🛠️ Tools
 
-<div float="right">
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="5" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bootstrap)](https://skillicons.dev)
