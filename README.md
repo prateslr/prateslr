@@ -1,4 +1,5 @@
-# Lucas Prates 
+# Lucas Prates
+**`Web Developer`**
 
 <div align="justify">
  <p>I am a web developer specializing in creating projects using Html, Css, Js and other languages. I develop pages to suit your needs and the look of your company.</p>
