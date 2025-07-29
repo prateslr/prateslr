@@ -27,5 +27,5 @@
   <img
     align="left" 
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateslr&layout=compact&theme=dark" alt="Top Langs" height="400"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateslr&layout=compact&theme=dark&langs_count=9" alt="Top Langs" height="400"/>
 </p>
