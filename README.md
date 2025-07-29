@@ -1,4 +1,4 @@
-# Lucas Prates
+# 👨‍💻 Lucas Prates
 **`Web Developer`**
 
 <div align="justify">
