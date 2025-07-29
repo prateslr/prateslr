@@ -14,3 +14,18 @@
 ### 🛠️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bootstrap)](https://skillicons.dev)
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=prateslr&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
+ 
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateslr&layout=compact&theme=dark" alt="Top Langs" height="400"/>
+</p>
