@@ -2,7 +2,7 @@
 **`Web Developer`**
 
 <div align="justify">
- <p>Me chamo Lucas Ramalho Prates, tenho 18 anos e sou de São Paulo. Terminei o ensino médio na ETEC MCM, com o curso técnico em Informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM.</p>
+ <p>Me chamo Lucas Ramalho Prates, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade FAM após terminar o ensino médio na ETEC MCM como técnico em Informática para Internet.</p>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasspr)
